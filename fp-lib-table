@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name ASSMANN_KK)(type KiCad)(uri ${KIPRJMOD}/ASSMANN_KK.pretty)(options "")(descr ""))
+  (lib (name RECOM)(type KiCad)(uri ${KIPRJMOD}/RECOM.pretty)(options "")(descr ""))
+  (lib (name PC-MKDS)(type KiCad)(uri ${KIPRJMOD}/PC-MKDS.pretty)(options "")(descr ""))
+  (lib (name Fuse10x38)(type KiCad)(uri ${KIPRJMOD}/Fuse10x38.pretty)(options "")(descr ""))
+)
